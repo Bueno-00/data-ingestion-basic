@@ -1,0 +1,7 @@
+order_id,date,product,price,quantity,state,city,revenue
+1,2025-10-01,Caneta,2.5,10,SP,Sao Paulo,25.0
+2,2025-10-02,Caderno,15.0,2,RJ,Rio de Janeiro,30.0
+3,2025-10-02,Caneta,2.5,5,MG,Belo Horizonte,12.5
+4,2025-10-03,Estojo,10.0,1,SP,Sao Paulo,10.0
+5,2025-10-05,Caneta,2.5,20,PR,Curitiba,50.0
+6,2025-10-06,Caderno,15.0,1,BA,Salvador,15.0
