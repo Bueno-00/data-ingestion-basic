@@ -41,10 +41,10 @@ DATA-ENGINEERING-PORTFOLIO/
 │   │   └── upload_to_azure.py   # Upload para Azure
 │   │
 │   ├── images/                # Gráficos do Power BI
-│   │   ├── x.png
-│   │   ├── xx.png
-│   │   ├── xxx.png
-│   │   └── xxxx.png
+│   │   ├── Grafico Coluna - Project 01
+│   │   └── Grafico Linhas - Project 01
+│   │   
+│   │   
 │   │
 │   ├── .env                   # Chaves Azure (privado)
 │   ├── .gitignore             # Arquivos ignorados pelo Git
@@ -101,10 +101,10 @@ Após o upload, os dados são consumidos diretamente do Azure e visualizados no 
 Vendas por produto em cada estado    
 Vendas em 6 dias e a receita gerada  
 
-📊 Gráficos criados no Power BI:
+## 📊 Gráficos criados no Power BI
 
-![Gráfico 1]([01-data-ingestion-basic/GraficoColunas-Projeto01.png](https://github.com/Bueno-00/data-ingestion-basic/blob/main/01-data-ingestion-basic/Grafico%20Coluna%20-%20Project%2001.png))
-![Gráfico 2]([01-data-ingestion-basic/GraficoLinhas-Projeto01.png](https://github.com/Bueno-00/data-ingestion-basic/blob/main/01-data-ingestion-basic/Grafico%20Linhas%20-%20Project%2001.png))
+![Gráfico de Colunas](https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/01-data-ingestion-basic/Grafico-Coluna-Project01.png)
+![Gráfico de Linhas](https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/01-data-ingestion-basic/Grafico-Linhas-Project01.png)
 
 ---
 
